@@ -1,6 +1,17 @@
 # Colour website
 
-Static site for Colour. No build step. Pages: index.html, about.html, approach.html, pioneers.html.
+Static site for Colour. No build step, no JavaScript, no cookies.
 
-Publish with GitHub Pages: Settings > Pages > Deploy from a branch > main > / (root).
-Sales contact: buildwithcolours@gmail.com
+| Page | File |
+|---|---|
+| Home | index.html |
+| Research | research.html |
+| Approach | approach.html |
+| About | about.html |
+| Pioneers | pioneers.html |
+| Work with us | partner.html |
+| Legal | legal.html |
+
+Shared styles: site.css. Fonts load from Google Fonts (Orbitron, Share Tech Mono, IBM Plex Sans).
+
+Published with GitHub Pages from the `main` branch. Sales contact: buildwithcolours@gmail.com
